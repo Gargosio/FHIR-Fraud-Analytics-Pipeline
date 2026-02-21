@@ -9,13 +9,14 @@ Below are the most relevant fraudulent schemes that can realistically be flagged
  <img width="434" height="269" alt="image" src="https://github.com/user-attachments/assets/3c8c8981-53ba-4cf3-b72e-8260fa558b95" />
 
 2.	Short Duration Encounters with Claims : Encounters whose duration is less than 3 minutes but have an accompanying claim
- 
-3.	Phantom Billing by Facility: Claims with Minimal/No Clinical Evidence (Observations, Diagnosis & Medication)
+ <img width="593" height="350" alt="image" src="https://github.com/user-attachments/assets/2f161923-bd3c-4061-aa6f-73f89e9fa5b1" />
 
-4.	Up coding: High-Value Claims with Low/minimal Clinical Justification
+4.	Phantom Billing by Facility: Claims with Minimal/No Clinical Evidence (Observations, Diagnosis & Medication)
 
-5.	Potential Unbundling: Multiple Claims per Encounter
+5.	Up coding: High-Value Claims with Low/minimal Clinical Justification
+
+6.	Potential Unbundling: Multiple Claims per Encounter
  
-6.	Over-Prescription: Medication Fraud. Flags meds without matching diagnosis
+7.	Over-Prescription: Medication Fraud. Flags meds without matching diagnosis
 
  
