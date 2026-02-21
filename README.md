@@ -7,21 +7,9 @@ The dashboard is a true depiction of what happens in a typical hospital where a 
 
 Below are the most relevant fraudulent schemes that can realistically be flagged or investigated using this data, grouped by category, with explanations of how the available columns support detection.
 1.	Phantom Billing by Product: Claims with Minimal/No Clinical Evidence (Observations, Diagnosis & Medication)
- <img width="434" height="269" alt="image" src="https://github.com/user-attachments/assets/3c8c8981-53ba-4cf3-b72e-8260fa558b95" />
-
 2.	Short Duration Encounters with Claims : Encounters whose duration is less than 3 minutes but have an accompanying claim
- <img width="593" height="350" alt="image" src="https://github.com/user-attachments/assets/2f161923-bd3c-4061-aa6f-73f89e9fa5b1" />
-
 4.	Phantom Billing by Facility: Claims with Minimal/No Clinical Evidence (Observations, Diagnosis & Medication)
-<img width="593" height="377" alt="image" src="https://github.com/user-attachments/assets/4c93b2f0-375f-4c22-8f30-5465c22a2012" />
-
 5.	Up coding: High-Value Claims with Low/minimal Clinical Justification
-<img width="603" height="358" alt="image" src="https://github.com/user-attachments/assets/dad7159a-6d17-4c6b-8866-9687150f6d0b" />
-
 6.	Potential Unbundling: Multiple Claims per Encounter
- <img width="595" height="383" alt="image" src="https://github.com/user-attachments/assets/58825c8e-2c3b-44c6-83f8-f35ece41c53b" />
-
 7.	Over-Prescription: Medication Fraud. Flags meds without matching diagnosis
-<img width="615" height="315" alt="image" src="https://github.com/user-attachments/assets/d2c058e9-2f77-4b55-857a-bd8cb9328944" />
-
  
