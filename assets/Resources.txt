@@ -1,0 +1,1 @@
+This folder contains all fhir resources used for demonstrationn of the analytic models
