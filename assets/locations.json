@@ -1,0 +1,45 @@
+{
+    "resourceType": "Location",
+    "id": "1001",
+    "meta": {
+        "versionId": "1",
+        "lastUpdated": "2026-01-13T12:37:13.466+00:00",
+        "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location"
+        ]
+    },
+    "identifier": [
+        {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "1ee7e785-1991-34c3-9d64-8bed2e20233a"
+        }
+    ],
+    "status": "active",
+    "name": "HEALTHALLIANCE HOSPITALS, INC",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "9784662000"
+        }
+    ],
+    "address": {
+        "line": [
+            "60 HOSPITAL ROAD"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453",
+        "country": "US"
+    },
+    "position": {
+        "longitude": -71.770876,
+        "latitude": 42.520838
+    },
+    "managingOrganization": {
+        "identifier": {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "ef58ea08-d883-3957-8300-150554edc8fb"
+        },
+        "display": "HEALTHALLIANCE HOSPITALS, INC"
+    }
+}

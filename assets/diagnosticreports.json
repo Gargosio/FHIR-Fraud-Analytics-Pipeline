@@ -1,0 +1,62 @@
+{
+    "resourceType": "DiagnosticReport",
+    "id": "5767",
+    "meta": {
+        "versionId": "1",
+        "lastUpdated": "2026-01-13T12:38:14.801+00:00",
+        "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"
+        ]
+    },
+    "status": "final",
+    "category": [
+        {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "34117-2",
+                    "display": "History and physical note"
+                },
+                {
+                    "system": "http://loinc.org",
+                    "code": "51847-2",
+                    "display": "Evaluation+Plan note"
+                }
+            ]
+        }
+    ],
+    "code": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "code": "34117-2",
+                "display": "History and physical note"
+            },
+            {
+                "system": "http://loinc.org",
+                "code": "51847-2",
+                "display": "Evaluation+Plan note"
+            }
+        ]
+    },
+    "subject": {
+        "reference": "Patient/5764"
+    },
+    "encounter": {
+        "reference": "Encounter/5765"
+    },
+    "effectiveDateTime": "1991-07-08T01:39:26+00:00",
+    "issued": "1991-07-08T01:39:26.097+00:00",
+    "performer": [
+        {
+            "reference": "Practitioner/4516",
+            "display": "Dr. Ronny764 Block661"
+        }
+    ],
+    "presentedForm": [
+        {
+            "contentType": "text/plain; charset=utf-8",
+            "data": "CjE5OTEtMDctMDgKCiMgQ2hpZWYgQ29tcGxhaW50Ck5vIGNvbXBsYWludHMuCgojIEhpc3Rvcnkgb2YgUHJlc2VudCBJbGxuZXNzCkJvYjk2NQogaXMgYSBuZXdib3JuIG5vbi1oaXNwYW5pYyBibGFjayBtYWxlLgoKIyBTb2NpYWwgSGlzdG9yeQogUGF0aWVudCBxdWl0ZSBzbW9raW5nIGF0IGFnZSAxNiBhbmQgaXMgYW4gYWxjb2hvbGljLgoKClBhdGllbnQgY29tZXMgZnJvbSBhIG1pZGRsZSBzb2Npb2Vjb25vbWljIGJhY2tncm91bmQuCgpQYXRpZW50IGN1cnJlbnRseSBoYXMgdW5rbm93biBpbnN1cmFuY2UgY292ZXJhZ2UuCgojIEFsbGVyZ2llcwpObyBLbm93biBBbGxlcmdpZXMuCgojIE1lZGljYXRpb25zCk5vIEFjdGl2ZSBNZWRpY2F0aW9ucy4KCiMgQXNzZXNzbWVudCBhbmQgUGxhbgoKCiMjIFBsYW4KUGF0aWVudCB3YXMgZ2l2ZW4gdGhlIGZvbGxvd2luZyBpbW11bml6YXRpb25zOiBoZXAgYiwgYWRvbGVzY2VudCBvciBwZWRpYXRyaWMuIAo="
+        }
+    ]
+}
